@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "940938698464",
+    "firebase_url": "https://assesment-formulario.firebaseio.com",
+    "project_id": "assesment-formulario",
+    "storage_bucket": "assesment-formulario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940938698464:android:74eff0f1d61a1d8b",
+        "android_client_info": {
+          "package_name": "com.example.gabrielbur.assesment_formulario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940938698464-mu1b37gb219eerpt8pn9v0b5adhn1bdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gabrielbur.assesment_formulario",
+            "certificate_hash": "8842c8d413398b8829a9a1199c66f7682f37813c"
+          }
+        },
+        {
+          "client_id": "940938698464-4d88lm880a2t3gvkobf304bqnjcum0ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANFJ1RuCgSwnrMidxm5u24I6LNN3rtF9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940938698464-4d88lm880a2t3gvkobf304bqnjcum0ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

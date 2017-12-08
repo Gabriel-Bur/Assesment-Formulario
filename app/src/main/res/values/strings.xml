@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assesment-Formulario</string>
+
+    <string name="facebook_app_id">1894682377513768</string>
+    <string name="fb_login_protocol_scheme">fb1894682377513768</string>
+
+</resources>
